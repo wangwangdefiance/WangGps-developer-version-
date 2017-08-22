@@ -1,0 +1,13 @@
+<litepal>
+    <dbname value="wang_GpsZaxis"/>
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.example.defiance.wanggps_10.database.UpGpsPossibilityMap"/>
+        <mapping class="com.example.defiance.wanggps_10.database.UpZAccePossibilityMap"/>
+        <mapping class="com.example.defiance.wanggps_10.database.PlainGpsPossibilityMap"/>
+        <mapping class="com.example.defiance.wanggps_10.database.PlainZAccePossibilityMap"/>
+        <mapping class="com.example.defiance.wanggps_10.database.DownGpsPossibilityMap"/>
+        <mapping class="com.example.defiance.wanggps_10.database.DownZAccePossibilityMap"/>
+    </list>
+</litepal>
